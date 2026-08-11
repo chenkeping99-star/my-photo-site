@@ -1,7 +1,7 @@
 baseURL = 'https://seven612-photos.vercel.app/'
 theme = 'gallery'
-title = 'Seven612-Photo library'  # 左上角小字标题
+title = 'Seven612-Photo library'
 
 [params]
-title = 'Feel it'        # 中间替换【雨果画廊】的大字
-description = 'Substances from nature' # 中间替换【Hugo主题图库...】的副标题/简介
+title = 'Feel it'
+description = 'Substances from nature'

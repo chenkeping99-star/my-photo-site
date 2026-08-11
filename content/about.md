@@ -1,10 +1,8 @@
 ---
-layout: prose
-rss_ignore: true
-title: About
-menu:
-  main:
-    weight: 90
+title: "About me"
 ---
 
-This is a demonstration site for the Hugo Gallery theme.
+Hello, I'm Chen Keping (Seven)
+
+A blank box will be filled with time.
+
