@@ -1,7 +1,7 @@
 ---
-description:Substances from nature
-title: 
-resources:Feel it
+title: "Feel it"
+description: "Substances from nature"
+resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:
       cover: true
