@@ -1,3 +1,3 @@
 ---
-title: "Preface one"
+title: "one"
 ---
