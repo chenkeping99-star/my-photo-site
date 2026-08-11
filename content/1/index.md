@@ -1,3 +1,3 @@
 ---
-title: "one"
+title: "1"
 ---
